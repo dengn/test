@@ -2,7 +2,7 @@
   "files": [
     "README.md"
   ],
-  "imageSize": 100,
+  "imageSize": 30,
   "commit": false,
   "contributors": [
     {
@@ -15,7 +15,7 @@
       ]
     }
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 20,
   "projectName": "test",
   "projectOwner": "dengn",
   "repoType": "github",
