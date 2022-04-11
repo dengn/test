@@ -1,6 +1,6 @@
 # test
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -9,7 +9,8 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/dengn"><img src="https://avatars.githubusercontent.com/u/4965857?v=4?s=100" width="100px;" alt=""/><br /><sub><b>dengn</b></sub></a><br /><a href="https://github.com/dengn/test/commits?author=dengn" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/dengn"><img src="https://avatars.githubusercontent.com/u/4965857?v=4?s=30" width="30px;" alt=""/><br /><sub><b>dengn</b></sub></a><br /><a href="https://github.com/dengn/test/commits?author=dengn" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/helgaLighting"><img src="https://avatars.githubusercontent.com/u/101632567?v=4?s=30" width="30px;" alt=""/><br /><sub><b>helgaLighting</b></sub></a><br /><a href="https://github.com/dengn/test/commits?author=helgaLighting" title="Code">💻</a></td>
   </tr>
 </table>
 
